@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AdamTeece]]></title>
+        <description><![CDATA[AdamTeece]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 Nov 2015 15:46:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[When Data Just Isn't Enough: The Hidden Context that's Key to Content Loyalty]]></title>
+            <description><![CDATA[<article><h1>When Data Just Isn't Enough: The Hidden Context that's Key to Content Loyalty</h1><p>When the client asked to "go mute" during our monthly client call, there was no reason to sound the alarm. After all, being able to talk through what they've heard as a team, in private, was normal.</p><img src="http://d1avok0lzls2w.cloudfront.net/uploads/og_image/564e0b8bdb0429.17023432.png"></article>]]></description>
+            <link>https://moz.com/blog/when-data-just-isnt-enough-hidden-context-content-loyalty?utm_campaign=Submission&amp;utm_medium=Community&amp;utm_source=GrowthHackers.com</link>
+            <guid isPermaLink="false">75a53b34-718f-4b0c-95f7-9451cd6cb9dc</guid>
+            <pubDate>Mon, 23 Nov 2015 15:46:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
