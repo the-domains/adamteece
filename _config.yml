@@ -2,12 +2,13 @@ name: AdamTeece
 favicon: null
 layout_spectrum: 0.8029043599963188
 typography_spectrum: 0.13416483206674457
+title: Just my thoughts and ramblings while I learn to use The Grid
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-316315-10
   facebook: null
   twitter: null
 opengraph:
