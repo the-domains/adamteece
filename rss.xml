@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AdamTeece]]></title>
-        <description><![CDATA[AdamTeece]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Just my thoughts and ramblings while I learn to use The Grid]]></title>
+        <description><![CDATA[Just my thoughts and ramblings while I learn to use The Grid]]></description>
+        <link>https://thegrid.ai/adamteece/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 15:46:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 Nov 2015 06:14:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/adamteece/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chris Hadfield: What I learned from going blind in space]]></title>
+            <description><![CDATA[<article><h1>Chris Hadfield: What I learned from going blind in space</h1><p>There's an astronaut saying: In space, "there is no problem so bad that you can't make it worse." So how do you deal with the complexity, the sheer pressure, of dealing with dangerous and scary situations?</p><img src="https://i.ytimg.com/vi/Zo62S0ulqhA/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Zo62S0ulqhA</link>
+            <guid isPermaLink="false">dc7a5f63-0dd9-4dd0-8625-b7aa116ac46b</guid>
+            <pubDate>Tue, 24 Nov 2015 06:14:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[When Data Just Isn't Enough: The Hidden Context that's Key to Content Loyalty]]></title>
             <description><![CDATA[<article><h1>When Data Just Isn't Enough: The Hidden Context that's Key to Content Loyalty</h1><p>When the client asked to "go mute" during our monthly client call, there was no reason to sound the alarm. After all, being able to talk through what they've heard as a team, in private, was normal.</p><img src="http://d1avok0lzls2w.cloudfront.net/uploads/og_image/564e0b8bdb0429.17023432.png"></article>]]></description>
