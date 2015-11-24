@@ -1,14 +1,10 @@
 ---
-author:
-  - name: TED
-    url: 'https://www.youtube.com/user/TEDtalksDirector'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=Zo62S0ulqhA'
+inLanguage: en
+starred: false
 keywords:
   - ted
   - duration
@@ -21,7 +17,13 @@ keywords:
   - life
   - chris
 description: "There's an astronaut saying: In space, \"there is no problem so bad that you can't make it worse.\" So how do you deal with the complexity, the sheer pressure, of dealing with dangerous and scary situations?"
-inLanguage: en
+datePublished: '2015-11-24T05:30:47.463Z'
+dateModified: '2015-11-24T05:30:20.690Z'
+author:
+  - name: TED
+    url: 'https://www.youtube.com/user/TEDtalksDirector'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Zo62S0ulqhA&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=Zo62S0ulqhA&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Zo62S0ulqhA'
 title: 'Chris Hadfield: What I learned from going blind in space'
-datePublished: '2015-11-24T05:29:34.946Z'
-dateModified: '2015-11-24T05:28:41.243Z'
 sourcePath: _posts/2015-11-24-chris-hadfield-what-i-learned-from-going-blind-in-space.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
