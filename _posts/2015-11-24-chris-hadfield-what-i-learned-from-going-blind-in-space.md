@@ -17,8 +17,8 @@ keywords:
   - life
   - chris
 description: "There's an astronaut saying: In space, \"there is no problem so bad that you can't make it worse.\" So how do you deal with the complexity, the sheer pressure, of dealing with dangerous and scary situations?"
-datePublished: '2015-11-24T05:30:47.463Z'
-dateModified: '2015-11-24T05:30:20.690Z'
+datePublished: '2015-11-24T06:14:04.208Z'
+dateModified: '2015-11-24T06:07:02.028Z'
 author:
   - name: TED
     url: 'https://www.youtube.com/user/TEDtalksDirector'
